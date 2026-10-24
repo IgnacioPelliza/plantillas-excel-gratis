@@ -2,7 +2,11 @@
 
 Planillas listas para usar, pensadas para Argentina (pesos, cuotas, dólares). Se abren con **Excel**, **Google Sheets** o **LibreOffice**. Son gratis: descargalas, usalas y compartilas.
 
-Las armé para que cualquiera pueda ordenar sus gastos, el stock de un negocio o los presupuestos sin tener que pagar un programa. Si te sirven y querés colaborar, mi alias es **igna.pelliza**.
+Las armé para que cualquiera pueda ordenar sus gastos, el stock de un negocio o los presupuestos sin tener que pagar un programa.
+
+Si te sirven y querés colaborar, mi alias es:
+
+**igna.pelliza**
 
 ## Qué hay
 
